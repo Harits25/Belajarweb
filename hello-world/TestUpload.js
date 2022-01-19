@@ -1,0 +1,1 @@
+console.log("If you can't do great things, do small things in a great way.")
