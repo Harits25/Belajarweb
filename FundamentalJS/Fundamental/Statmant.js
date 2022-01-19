@@ -1,5 +1,5 @@
-let name = "Kodekami.com"
-console.log(name)
+let name = "Kodekami.com" // deklarasi variable
+console.log(name)         // Panggilan built-in function
 
 if(true) {
     console.log("Statment 1")
